@@ -1,5 +1,7 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+// Touchstone project for Sophia
+
 import java.util.Scanner;
 import java.util.Random;
 
