@@ -1,0 +1,14 @@
+{
+  "name": "java_wordle",
+  "version": "0.0.0",
+  "description": "Java_Wordle",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
